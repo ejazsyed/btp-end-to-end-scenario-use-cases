@@ -120,8 +120,10 @@ journey
       Set Up Metrics Collection: 5: Me
     section Preparation & Deployment
       Deploy Application in the SAP BTP, Cloud Foundry Runtime: 5: Me
-    section Access Logs
-      Access Logs, Metrics and Traces Using SAP Cloud Logging Service: 5: Me, Day2 Expert
+    section Monitor using SAP Cloud Logging Service
+      Access Logs: 5: Me
+      Acesss Metrics: 5: Me
+      Access Traces: 5: Me, Day2 Expert
 ```
 
 1. [Setup Custom Log Collection](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/observability/2-implement.md)
