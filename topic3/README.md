@@ -88,6 +88,32 @@ journey
 11. [Assign the User Roles](https://developers.sap.com/tutorials/user-role-assignment.html)
 12. [Integrate Your Application with SAP Build Work Zone, Standard Edition](https://developers.sap.com/tutorials/integrate-with-work-zone.html)
 
+## Implement Remote Connectivity with SAP S/4HANA
+
+```mermaid
+journey
+    title Your Journey to Extend Incident Management with SAP S/4HANA Cloud
+    section Extend Application
+      Extend the Incident Management аpplication: 5: Me
+      Run a developer test with mock data: 5: Me
+    section Ready for Production
+      Prepare the app for production: 5: Me 
+    section Deploy
+      Deploy to SAP BTP Cloud Foundry runtime: 5: Me
+      Add Authorization: 5: Me
+      Add Test Cases: 5: Me
+    section Ready for Production
+      Prepare for Production: 5: Me
+      Deploy in SAP BTP, Cloud Foundry Runtime: 5: Me
+      Run application with SAP S/4HANA Backend: 5: Me, Extension Developer
+```
+
+1. [Extend the Incident Management аpplication](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/remote-service/develop/extend-app-cf.md)
+2. [Run a developer test with mock data](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/remote-service/develop/test-with-mock.md)
+3. [Prepare the app for production](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/remote-service/deploy/prep-for-prod/prep-for-prod.md)
+4. [Deploy to SAP BTP Cloud Foundry runtime with SAP S/4HANA Cloud](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/remote-service/deploy/cf/deploy-to-cf.md)
+5. [Run application with SAP S/4HANA Backend](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/remote-service/test-the-application/test-the-app.md)
+
 
 
 
