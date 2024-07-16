@@ -57,18 +57,22 @@ journey
 ```mermaid
 journey
     title Your Journey to Develop and Deploy Full-Stack CAP Application
-    section Develop
+    section Service
       Set Up SAP Business Application Studio: 5: Me
       Build a CAP Application: 5: Me
-      Deploy to SAP BTP,CF: 5: Me
-    section Implement Remote Connectivity
-      Extend Application: 5: Me
-      Test Locally: 5: Me
-      Prepare and Deploy: 5: Me
-      Run with S/4HANA Backend: 5: Me 
-    section Day 2 Operation
-      SAP Cloud Logging Service: 5: Me
-      Access Logs,Metrics and Traces: 5: Me,Champion
+      Add SAP Fiori Elements UIs: 5: Me 
+    section Custom Logic
+      Add Custom Logic: 5: Me 
+    section Launchpage & Security
+      Use a Local Launch Page: 5: Me
+      Add Authorization: 5: Me
+      Add Test Cases: 5: Me
+    section Ready for Production
+      Prepare for Production: 5: Me
+      Deploy in SAP BTP, Cloud Foundry Runtime: 5: Me
+      Assign the User Roles: 5: Me
+    section Integration to Workzone
+      Integrate Your Application with SAP Build Work Zone, Standard Edition: 5: Me
 ```
 
 1. [Set Up SAP Business Application Studio](https://developers.sap.com/tutorials/set-up-bas.html)
