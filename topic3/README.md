@@ -96,15 +96,10 @@ journey
     section Extend Application
       Extend the Incident Management аpplication: 5: Me
       Run a developer test with mock data: 5: Me
-    section Ready for Production
+    section Preparation & Deployment
       Prepare the app for production: 5: Me 
-    section Deploy
       Deploy to SAP BTP Cloud Foundry runtime: 5: Me
-      Add Authorization: 5: Me
-      Add Test Cases: 5: Me
-    section Ready for Production
-      Prepare for Production: 5: Me
-      Deploy in SAP BTP, Cloud Foundry Runtime: 5: Me
+    section Run
       Run application with SAP S/4HANA Backend: 5: Me, Extension Developer
 ```
 
