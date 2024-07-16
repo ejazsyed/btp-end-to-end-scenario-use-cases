@@ -1,5 +1,7 @@
 # Clean Core Full Stack Application Development with SAP BTP
 
+## MindMap
+
 ```mermaid
    mindmap
   root((SAP BTP Guide))
@@ -31,7 +33,7 @@
 
 
 ```
-
+## Understand Your Journey
 
 ```mermaid
 journey
