@@ -109,6 +109,27 @@ journey
 4. [Deploy to SAP BTP Cloud Foundry runtime with SAP S/4HANA Cloud](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/remote-service/deploy/cf/deploy-to-cf.md)
 5. [Run application with SAP S/4HANA Backend](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/remote-service/test-the-application/test-the-app.md)
 
+## Day2 Operation: Implement Observability 
+
+```mermaid
+journey
+    title Your Journey for Day2 Operation
+    section Setup
+      Setup Custom Log Collection: 5: Me
+      Set Up Trace Collection: 5: Me
+      Set Up Metrics Collection: 5: Me
+    section Preparation & Deployment
+      Deploy Application in the SAP BTP, Cloud Foundry Runtime: 5: Me
+    section Access Logs
+      Access Logs, Metrics and Traces Using SAP Cloud Logging Service: 5: Me, Day2 Expert
+```
+
+1. [Setup Custom Log Collection](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/observability/2-implement.md)
+2. [Set Up Trace Collection](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/observability/3-implement-traces.md)
+3. [Set Up Metrics Collection](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/observability/metrics.md)
+4. [Deploy Application in the SAP BTP, Cloud Foundry Runtime](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/observability/4-deploy-to-cf.md)
+5. [Access Logs, Metrics and Traces Using SAP Cloud Logging Service](https://github.com/SAP-samples/btp-developer-guide-cap/blob/main/documentation/observability/6-test-the-flow.md)
+
 
 
 
