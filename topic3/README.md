@@ -72,7 +72,7 @@ journey
       Deploy in SAP BTP, Cloud Foundry Runtime: 5: Me
       Assign the User Roles: 5: Me
     section Integration to Workzone
-      Integrate Your Application with SAP Build Work Zone, Standard Edition: 5: Me
+      Integrate Your Application with SAP Build Work Zone, Standard Edition: 5: Me, CAP Champion
 ```
 
 1. [Set Up SAP Business Application Studio](https://developers.sap.com/tutorials/set-up-bas.html)
