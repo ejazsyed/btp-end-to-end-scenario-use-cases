@@ -54,6 +54,23 @@ journey
 
 ## Develop and Deploy Full-Stack CAP Application
 
+```mermaid
+journey
+    title Your Journey to Develop and Deploy Full-Stack CAP Application
+    section Develop
+      Set Up SAP Business Application Studio: 5: Me
+      Build a CAP Application: 5: Me
+      Deploy to SAP BTP,CF: 5: Me
+    section Implement Remote Connectivity
+      Extend Application: 5: Me
+      Test Locally: 5: Me
+      Prepare and Deploy: 5: Me
+      Run with S/4HANA Backend: 5: Me 
+    section Day 2 Operation
+      SAP Cloud Logging Service: 5: Me
+      Access Logs,Metrics and Traces: 5: Me,Champion
+```
+
 1. [Set Up SAP Business Application Studio](https://developers.sap.com/tutorials/set-up-bas.html)
 2. [Build a CAP Application](https://developers.sap.com/tutorials/build-cap-app.html)
 3. [Add SAP Fiori Elements UIs](https://developers.sap.com/tutorials/add-fiori-elements-uis.html)
